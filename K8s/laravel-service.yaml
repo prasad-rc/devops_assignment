@@ -3,10 +3,9 @@ kind: Service
 metadata:
   name: laravel-service
 spec:
-  type: NodePort
+  type: LoadBalancer
   selector:
     app: laravel
   ports:
-    - port: 9000
-      targetPort: 9000
-      nodePort: 30090
+  - port: 80
+    targetPort: 80
