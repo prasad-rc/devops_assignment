@@ -127,6 +127,11 @@ laravel-service   LoadBalancer   ...   a1d579e5032f04f59855767df73332e5-63732887
 * [ ] Add Ansible automation for post-deployment configs
 * [ ] Enable Prometheus/Grafana for monitoring
 
+## Screen Shots
+
+
+
+![image](https://github.com/user-attachments/assets/c36ee044-e6e1-44cc-9dc3-16824095620e)
 
 
 ## 🙌 Author
