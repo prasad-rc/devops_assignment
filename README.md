@@ -39,7 +39,7 @@ This project showcases the deployment of a Laravel application containerized wit
 ### 1. Clone the Repository
 
 
-git clone https://github.com/your-username/laravel-eks-deploy.git
+git clone https://github.com/prasad-rc/laravel-eks-deploy.git
 cd laravel-eks-deploy
 
 
